@@ -22,12 +22,12 @@ div {
     color: rgb(68, 154, 255);
     
 }
-p #descrizione-foto {
-    font-size: 5px;
+p#descrizione-foto {
+    font-size: 10px;
 }
 mark {
-    background-color: #8FFFFF;
-    color: #000066;
+    background-color:yellow;
+   
   }
 table {
     width: 100%;
@@ -35,4 +35,10 @@ table {
 thead {
     background-color: rgb(68, 154, 255);
 
+}
+td {
+    width: 30%;
+}
+.row-color {
+    background-color: rgba(68, 154, 255, 0.5);
 }
