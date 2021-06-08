@@ -1,6 +1,6 @@
 body {
     width: 75%;
-    margim: 0 auto;
+    margim: auto;
 
 }
 #sfondo {
@@ -44,4 +44,23 @@ td {
 }
 #gray {
     color: gray;
+}
+h3 {
+  margin: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+  font-size: 140%;
+  padding-left: 5px;
+  text-align: start;
+  width: 250px;
+  height: 150px;
+}
+#immagine1{
+    background-image: url('../img/monitor.jpg');
+
+}
+#immagine2{
+    background-image: url('../img/graph.jpg');
+
 }
