@@ -25,3 +25,14 @@ div {
 p #descrizione-foto {
     font-size: 5px;
 }
+mark {
+    background-color: #8FFFFF;
+    color: #000066;
+  }
+table {
+    width: 100%;
+}
+thead {
+    background-color: rgb(68, 154, 255);
+
+}
