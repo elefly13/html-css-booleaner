@@ -1,3 +1,8 @@
+body {
+    width: 75%;
+    margim: 0 auto;
+
+}
 div {
     width: 100%;
     height: 180px;
@@ -12,4 +17,11 @@ div {
     bottom: 10px;
     left: 5px;
     
+}
+#firma {
+    color: rgb(68, 154, 255);
+    
+}
+p #descrizione-foto {
+    font-size: 5px;
 }
